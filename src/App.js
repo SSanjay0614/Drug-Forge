@@ -21,6 +21,7 @@ import BBBP from './components/BBBP.js';
 import BindingScore from './components/BindingScore.js';
 import ACE2 from './components/ACE2.js';
 import Toxicity from './components/Toxicity.js';
+import Chatbot from './components/Chatbot.js';
 
 const App = () => (
   <div>
@@ -48,6 +49,7 @@ const App = () => (
         <Route path="/toxicity" element={<Toxicity />} />
       </Routes>
     </main>
+    <Chatbot />
     
     <Footer />
   </div>
