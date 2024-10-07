@@ -1,6 +1,7 @@
-Drug Forge
-Problem Statement
-Drug discovery is a long, complex, and costly process involving various stages, from identifying potential drug targets to testing for safety and efficacy. Traditional methods rely heavily on manual testing, trial-and-error approaches, and the development of assays for drug properties like solubility, toxicity, and molecular binding. This slows down the process, increases costs, and may not cover all potential drug candidates efficiently.
+# Drug Forge: AI/ML-Driven Drug Discovery Platform
 
-Solution
-Drug Forge aims to accelerate and optimize the drug discovery process by leveraging AI/ML models to predict critical drug properties in silico, reducing the need for manual experimentation. Our platform provides scientists and researchers with powerful tools to predict key features like ADMET properties, drug-target interactions, and molecular docking scores. These predictions streamline decision-making, reducing both time and cost during the early stages of drug development.
+## Problem Statement
+Drug discovery is a long and expensive process, involving many trial-and-error experiments to assess the properties of potential drug molecules. Traditional approaches require manual testing of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) properties, drug-target binding, and molecular interactions, which can take years and cost billions of dollars. The lack of predictive tools adds to this challenge, making the early stages of drug development highly inefficient.
+
+## Solution
+**Drug Forge** is a machine learning-powered web platform that accelerates drug discovery by providing key insights into the properties of molecules, without the need for manual assays. Our platform enables scientists to predict crucial drug features like ADMET properties, drug-target binding scores, and activity against specific biological targets.
