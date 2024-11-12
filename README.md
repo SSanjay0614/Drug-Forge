@@ -6,7 +6,7 @@ Drug discovery is a long and expensive process, involving many trial-and-error e
 ## Solution
 **Drug Forge** is a machine learning-powered web platform that accelerates drug discovery by providing key insights into the properties of molecules, without the need for manual assays. Our platform enables scientists to predict crucial drug features like ADMET properties, drug-target binding scores, and activity against specific biological targets.
 
-### Key Features:
+## Key Features:
 ### 1. **ADMET Property Prediction**
    - Predict Absorption, Distribution, Metabolism, Excretion, and Toxicity properties using advanced machine learning models. This helps researchers quickly evaluate whether a molecule has favorable drug-like characteristics without needing costly lab tests.
 
